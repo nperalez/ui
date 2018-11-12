@@ -4,19 +4,19 @@
 **Homepage**
 1. SVG logo create and add to template
 2. Removing dropdown from template nav bar
-3. Removing user column from table on homepage
+3. Removing user column from table on homepage  
 **Ask-Question (currently Create-Topic)**
 4. Change page title to Ask a Question
 5. Change "Thread Title" to "Question:"
 6. Change placeholder text to "Start your question with "What", "How", "Why" etc..."
 7. Remove "Who can see this" Title/radio options
 8. Remove "Share on social" Title/checkbox options
-9. Remove  "Is this a mature thread" Title/radio options
+9. Remove  "Is this a mature thread" Title/radio options  
 **Single-Question (currently Single-Topic)**
 10. Remove right side column
 11. Extend question box to full page width
 12. Remove question summary box
-13. Remove Ad
+13. Remove Ad  
 **Sign-Up (currently Simple-Signup)**
 14. Replace Unity logo with Wndr Logo
 15. Remove First/Last Name Fields
