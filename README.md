@@ -13,15 +13,15 @@
 8. Remove "Share on social" Title/checkbox options (done)
 9. Remove  "Is this a mature thread" Title/radio options (done)  
 **Single-Question (currently Single-Topic)**
-10. Remove right side column
+10. Remove right side column (done)
 11. Extend question box to full page width
-12. Remove question summary box
-13. Remove Ad  
+12. Remove question summary box (done)
+13. Remove Ad  (done)
 **Sign-Up (currently Simple-Signup)**
-14. Replace Unity logo with Wndr Logo
-15. Remove First/Last Name Fields
-16. Change Title "Create a New Unity Account" to "Create Your Wndr Account!"
-17. Change Text "By singin up you can start posting, replaying to topics, earn badges, favorite, vote topics and many more." to "By signing up you can ask and reply to questions, and link your Bitcoin and Litecoin recieving addresses to the Wndr Q&A network."
+14. Replace Unity logo with Wndr Logo (done)
+15. Remove First/Last Name Fields (done)
+16. Change Title "Create a New Unity Account" to "Create Your Wndr Account!" (done)
+17. Change Text "By singin up you can start posting, replaying to topics, earn badges, favorite, vote topics and many more." to "By signing up you can ask and reply to questions, and link your Bitcoin and Litecoin receiving addresses to the Wndr Q&A network." (done)
 18. Load up the UI and find more bugs!
 
 To claim a task, join [discord](https://discord.gg/z48BZK) and post the numbers you'd like to claim in "Tasks". We'll verify that you're on the job.
@@ -29,4 +29,3 @@ When done please submit your pull request link to "task-complete" with your hour
 
 Wndr reserves the right to reject PRs for poorly written code, embellishing hours.
 In these scenarios we may simply request an additional edit.
-
